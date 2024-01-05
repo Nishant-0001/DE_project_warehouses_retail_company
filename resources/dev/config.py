@@ -1,8 +1,8 @@
 import os
 
-key = "youtube_project"
-iv = "youtube_encyptyo"
-salt = "youtube_AesEncryption"
+key = ""
+iv = ""
+salt = ""
 
 #AWS Access And Secret key
 aws_access_key = "eonh06rTdM+xDSJnOOhS1ZxPzrONTYyLXx4tNImZIYg="
