@@ -5,8 +5,8 @@ iv = ""
 salt = ""
 
 #AWS Access And Secret key
-aws_access_key = "eonh06rTdM+xDSJnOOhS1ZxPzrONTYyLXx4tNImZIYg="
-aws_secret_key = "cTwRDIIV3l59tvIZ988TEUHX6MW9iTGJIAiccexWQgFBeSINESpGsJHDpX8YtOvl"
+aws_access_key = "eonh06rTdM+xDSJnOOONTYyLXx4tNImZIYg="
+aws_secret_key = "cTwRDIIV3l59tvIZ9W9iTGJIAiccexWQgFBeSINESpGsJHDpX8YtOvl"
 bucket_name = "data-project-testing01"
 s3_customer_datamart_directory = "customer_data_mart"
 s3_sales_datamart_directory = "sales_data_mart"
